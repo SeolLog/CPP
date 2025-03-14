@@ -10,5 +10,11 @@ int main()
 
     int i = 0;
 
+    unsigned char c = 0;
+    c = 0;
+    c = 255;
+    c = 256;
+    // 양의 정수를 사용하고 싶을 때는 unsigned를 써줘야함
+
     return 0;
 }
